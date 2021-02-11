@@ -16,9 +16,6 @@ public class ProgramaIMC {
 		System.out.println("Digite a altura em metros: (Ex: 1,57)");
 		imc.altura = in.nextDouble();
 		
-		//imc.calcular(imc.peso, imc.altura);
-		
-		//imc.interpretaIMC(imc.finalValorIMC);
 		
 		System.out.printf("Olá, %s \n",imc.nome);
 		System.out.println("--------------------------------");
